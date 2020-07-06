@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
                 rgba(0, 0, 0, 0.75), 
                 rgba(53, 51, 51, 0.09)
                 ),
-                url("/images/img_bg.png");
+                url("./images/img_bg.png");
                 height: 100vh; 
                 background-position: 0px 0px;
                 background-repeat: repeat-x;
@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
                 rgba(0, 0, 0, 0.75), 
                 rgba(53, 51, 51, 0.09)
                 ),
-                url("/images/linkedin1.PNG");
+                url("./images/linkedin1.PNG");
                 height: 100vh; 
                 background-position: 0px 0px;
                 background-repeat: repeat-x;
