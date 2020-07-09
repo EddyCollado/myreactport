@@ -308,6 +308,7 @@ figure {
         min-height: 400px;
         position: relative; }
     #colorlib-hero .flexslider .flex-control-nav {
+      color: white;
       bottom: 20px;
       z-index: 1000;
       left: 20px;
@@ -1380,7 +1381,7 @@ body.offcanvas {
     *display: inline;
     width: 30px;
     height: 2px;
-    color: black;
+    color: white;
     font: bold 14px/.4 Helvetica;
     text-transform: uppercase;
     text-indent: -55px;
