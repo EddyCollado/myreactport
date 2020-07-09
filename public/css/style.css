@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
                 rgba(0, 0, 0, 0.75), 
                 rgba(53, 51, 51, 0.09)
                 ),
-                url("/public/images/img_bg.PNG");
+                url("/img_bg.PNG");
                 height: 100vh; 
                 background-position: 0px 0px;
                 background-repeat: repeat-x;
@@ -59,7 +59,21 @@ h1, h2, h3, h4, h5, h6 {
                 rgba(0, 0, 0, 0.75), 
                 rgba(53, 51, 51, 0.09)
                 ),
-                url("/public/images/intro1.PNG");
+                url("/intro1.PNG");
+                height: 100vh; 
+                background-position: 0px 0px;
+                background-repeat: repeat-x;
+                animation: animatedBackground 40s linear infinite;
+}
+
+
+.intro-two {
+  background: linear-gradient(
+                to right,
+                rgba(0, 0, 0, 0.75), 
+                rgba(53, 51, 51, 0.09)
+                ),
+                url("/linkedin1.PNG");
                 height: 100vh; 
                 background-position: 0px 0px;
                 background-repeat: repeat-x;
@@ -78,20 +92,6 @@ h1, h2, h3, h4, h5, h6 {
                 background-repeat: repeat-x;
                 animation: animatedBackground 40s linear infinite;
 }
-
-.intro-two {
-  background: linear-gradient(
-                to right,
-                rgba(0, 0, 0, 0.75), 
-                rgba(53, 51, 51, 0.09)
-                ),
-                url("/public/images/linkedin1.PNG");
-                height: 100vh; 
-                background-position: 0px 0px;
-                background-repeat: repeat-x;
-                animation: animatedBackground 40s linear infinite;
-}
-
 
 @keyframes animatedBackground {
 	from { background-position: 0 ; }
@@ -1105,7 +1105,7 @@ body.offcanvas {
     top: 0;
     left: 0;
     right: 0;
-    background: rgba(0, 0, 0, 0.4); }
+    background: rgba(0, 0, 0, 0.9); }
   .colorlib-counters .icon {
     width: 100px;
     height: 100px;
