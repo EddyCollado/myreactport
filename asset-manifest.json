@@ -1,13 +1,13 @@
 {
   "main.css": "/myreactport/static/css/main.f6d6e2a7.chunk.css",
-  "main.js": "/myreactport/static/js/main.7fc34ff8.chunk.js",
-  "main.js.map": "/myreactport/static/js/main.7fc34ff8.chunk.js.map",
+  "main.js": "/myreactport/static/js/main.be33c077.chunk.js",
+  "main.js.map": "/myreactport/static/js/main.be33c077.chunk.js.map",
   "runtime~main.js": "/myreactport/static/js/runtime~main.8aef0bf1.js",
   "runtime~main.js.map": "/myreactport/static/js/runtime~main.8aef0bf1.js.map",
   "static/js/2.4885b37e.chunk.js": "/myreactport/static/js/2.4885b37e.chunk.js",
   "static/js/2.4885b37e.chunk.js.map": "/myreactport/static/js/2.4885b37e.chunk.js.map",
   "index.html": "/myreactport/index.html",
-  "precache-manifest.c1ea2ec158366676df569286258b55b3.js": "/myreactport/precache-manifest.c1ea2ec158366676df569286258b55b3.js",
+  "precache-manifest.26b0b38dc73aaaa7276a31453545ce24.js": "/myreactport/precache-manifest.26b0b38dc73aaaa7276a31453545ce24.js",
   "service-worker.js": "/myreactport/service-worker.js",
   "static/css/main.f6d6e2a7.chunk.css.map": "/myreactport/static/css/main.f6d6e2a7.chunk.css.map"
 }
