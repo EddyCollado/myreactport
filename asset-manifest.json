@@ -1,13 +1,13 @@
 {
-  "main.css": "/myreactport/static/css/main.f6d6e2a7.chunk.css",
-  "main.js": "/myreactport/static/js/main.158ce2bd.chunk.js",
-  "main.js.map": "/myreactport/static/js/main.158ce2bd.chunk.js.map",
+  "main.css": "/myreactport/static/css/main.d9ee5d8d.chunk.css",
+  "main.js": "/myreactport/static/js/main.af58052b.chunk.js",
+  "main.js.map": "/myreactport/static/js/main.af58052b.chunk.js.map",
   "runtime~main.js": "/myreactport/static/js/runtime~main.8aef0bf1.js",
   "runtime~main.js.map": "/myreactport/static/js/runtime~main.8aef0bf1.js.map",
-  "static/js/2.4885b37e.chunk.js": "/myreactport/static/js/2.4885b37e.chunk.js",
-  "static/js/2.4885b37e.chunk.js.map": "/myreactport/static/js/2.4885b37e.chunk.js.map",
+  "static/js/2.fd7813b7.chunk.js": "/myreactport/static/js/2.fd7813b7.chunk.js",
+  "static/js/2.fd7813b7.chunk.js.map": "/myreactport/static/js/2.fd7813b7.chunk.js.map",
   "index.html": "/myreactport/index.html",
-  "precache-manifest.58afa3228c1f5f7f209f97a85e5f2d60.js": "/myreactport/precache-manifest.58afa3228c1f5f7f209f97a85e5f2d60.js",
+  "precache-manifest.14e794b5e9bef0bfa2e6d9d63e2b67c7.js": "/myreactport/precache-manifest.14e794b5e9bef0bfa2e6d9d63e2b67c7.js",
   "service-worker.js": "/myreactport/service-worker.js",
-  "static/css/main.f6d6e2a7.chunk.css.map": "/myreactport/static/css/main.f6d6e2a7.chunk.css.map"
+  "static/css/main.d9ee5d8d.chunk.css.map": "/myreactport/static/css/main.d9ee5d8d.chunk.css.map"
 }
