@@ -136,7 +136,7 @@ figure {
   float: left;
   width: 300px;
   position: fixed;
-  overflow: scroll;
+  overflow: hidden;
   z-index: 1001;
   background: black;
   -webkit-transition: 0.5s;
