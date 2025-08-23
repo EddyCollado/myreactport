@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/myreactport/static/css/main.f48a98bf.css",
-    "main.js": "/myreactport/static/js/main.8fa0657c.js",
+    "main.js": "/myreactport/static/js/main.c709fb09.js",
     "index.html": "/myreactport/index.html",
     "main.f48a98bf.css.map": "/myreactport/static/css/main.f48a98bf.css.map",
-    "main.8fa0657c.js.map": "/myreactport/static/js/main.8fa0657c.js.map"
+    "main.c709fb09.js.map": "/myreactport/static/js/main.c709fb09.js.map"
   },
   "entrypoints": [
     "static/css/main.f48a98bf.css",
-    "static/js/main.8fa0657c.js"
+    "static/js/main.c709fb09.js"
   ]
 }
